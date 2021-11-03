@@ -1,3 +1,5 @@
+##Product Backlog
+
 
                                                                                                        ##Product Backlog
 
@@ -9,6 +11,3 @@
 | US004    | Como Gerente de compras preciso que todos os fornecedores estejam cadastrados no sistema e que seja possível cadastrar novos fornecedores.   | Média            |      2     |    3   |      André     |
 | US005    | Como Gerente de Compras quero poder controlar os orçamentos feitos com os fornecedores e salvar no sistema para compará-los de alguma forma. | Média            |      3     |    5   |       Meg      |
 | US006    | Como Gerente de Compras preciso que as notas fiscais sejam salvas no sistema para que mais tarde os produtos possam ser conferidos.          | Pequena          |      3     |    6   |      André     |
-
-
-[Product Backlog em PDF](https://drive.google.com/file/d/17zjD_wQo_JmT8nHJU04g1rKZcLMypi4w/view?usp=sharing)
