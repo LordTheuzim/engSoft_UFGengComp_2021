@@ -1,0 +1,7 @@
+1    Revisão de conceitos básicos de programação 
+
+2    Leitura e implementação dos códigos descritos no livro 
+
+3    Teste dos códigos 
+
+4    Jogar o jogo e apresentar o produto. 
